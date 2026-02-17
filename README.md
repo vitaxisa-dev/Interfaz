@@ -194,6 +194,7 @@
 <footer>
     © 2026 Sabores del Mundo | Todos los derechos reservados
 </footer>
-
+</body>
+</html>
 </body>
 </html>
